@@ -1,2 +1,9 @@
-## ★ 𓂃 𓍢 :wrench: 。oficina.  ♡
-Repositório dedicado ao registro de cada novo aprendizado através de anotações, exercícios e testes práticos.
+# ★ :wrench: : oficina.
+
+<div align="center">
+
+[![oficina](img/banner-readme.png)](https://github.com/naelldev/oficina)
+
+</div>
+
+Repositório dedicado ao registro de cada novo aprendizado.
