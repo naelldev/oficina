@@ -7,4 +7,4 @@ Return the filtered array
 
 function myFunction(a, b) {
     return a.filter(element => element !== b);
- }
+}
